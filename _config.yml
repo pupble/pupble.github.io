@@ -288,7 +288,7 @@ defaults:
     path: ""
     type: 读书笔记
   values:
-    layout: 读书笔记
+    layout: talk
     author_profile: true
     share: true
 
