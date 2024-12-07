@@ -9,6 +9,14 @@ redirect_from:
 
 我叫马朝阳，是一名即将入学的四川大学博士生。我的研究兴趣集中在**宏观网络、金融风险与宏观金融**领域，希望通过研究揭示金融市场中的系统性风险传播机制以及宏观政策的有效性与优化路径。
 
+
+
+
+
+### 个人文献阅读：
+
+- [ 文献阅读2024.xlsx](https://pupble.github.io/files/2024文献阅读.xlsx)
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

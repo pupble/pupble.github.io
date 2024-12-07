@@ -8,7 +8,7 @@ date: 2024-12-7
 location: "辽宁沈阳"
 ---
 
-本文是基于Joshua C. C. Chan教授的博士课程教材Notes on Bayesian Macroeconometrics所做笔记。
+本文是基于[Joshua C. C. Chan](https://joshuachan.org/)教授的博士课程教材[Notes on Bayesian Macroeconometrics](https://joshuachan.org/notes_BayesMacro.html)所做笔记。
 
 ## **第 1 章：贝叶斯计量经济学概述**
 
