@@ -285,12 +285,12 @@ defaults:
       share: true
   # _读书笔记
   - scope:
-    path: ""
-    type: 读书笔记
-  values:
-    layout: talk
-    author_profile: true
-    share: true
+      path: ""
+      type: 读书笔记
+    values:  # 修复了这里的缩进和冒号后空格
+      layout: talk
+     author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
