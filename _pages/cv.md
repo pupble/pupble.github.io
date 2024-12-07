@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **博士：金融学，四川大学**，**2025-2029**
+  - 研究方向：宏观经济网络、金融风险、时间序列
+* **硕士：辽宁大学，世界经济，2022–2025**
+  * 研究方向：宏观审慎、时间序列、绿色金融
+* **本科：郑州大学，金融学，2018–2022**
 
-Work experience
+工作经历
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,33 +34,31 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+个人技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* R语言
+* Stata
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
