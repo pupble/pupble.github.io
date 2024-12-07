@@ -224,7 +224,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  读书笔记:
+  reading_notes:
       output: true
       permalink: /:collection/:path/
 
@@ -283,10 +283,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _读书笔记
+  # _reading_notes
   - scope:
       path: ""
-      type: 读书笔记
+      type: reading_notes
     values:  # 修复了这里的缩进和冒号后空格
       layout: talk
       author_profile: true
