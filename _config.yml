@@ -288,7 +288,7 @@ defaults:
       path: ""
       type: readingnotes
     values:  # 修复了这里的缩进和冒号后空格
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
